@@ -19,7 +19,7 @@ Write a proposal for a software product you would like to pursue for the majorit
 1. Yinuo Xu
 2. Jiajun Jiao
 3. Yuewen Yang
-4. 
+4. Yiyi Wu (Yvonne)
 
 
 ### Project title
