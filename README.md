@@ -10,6 +10,17 @@ You are welcome to write a proposal with up to 5 other students, if desired. If 
 ## What to include
 
 Your proposal must focus on the product's value proposition, including answers to the questions below. Keep it thorough but concise. If you are not clear on whether your writing is any good, consult with a friend. -->
+# Project Proposal
+
+Write a proposal for a software product you would like to pursue for the majority of the semester. Make it obvious, interesting, and make the need for it sound convincing.
+
+## Collaboration
+
+1. Yinuo Xu
+2. Jiajun Jiao
+3. Yuewen Yang
+4. 
+
 
 ### Project title
 
@@ -27,17 +38,17 @@ Decider is mainly for the users who have a hard time making choices, such as tho
 
 ### How?
 Basically, users can:
--Create decisions(users can add decisions' weight).
--During party games, players can be drwan from a turntable. 
--Generating random numbers in a specific interval. 
--Users can choose and design from a variety of themes .
--Share the decisions with friends via link or text. 
--Quickly import options from the clipboard.
+1. Create decisions(users can add decisions' weight).
+2. During party games, players can be drwan from a turntable. 
+3. Generating random numbers in a specific interval. 
+4. Users can choose and design from a variety of themes .
+5. Share the decisions with friends via link or text. 
+6. Quickly import options from the clipboard.
  
  **
 Extented functions includes:
--Coin toss: use heads and tails to help you make decisions.
--Multiuser interactions: Share urls to others, and multiple usrs can add multiple decision items at the same time.
+1. Coin toss: use heads and tails to help you make decisions.
+2. Multiuser interactions: Share urls to others, and multiple usrs can add multiple decision items at the same time.
 
 ### Scope
 
