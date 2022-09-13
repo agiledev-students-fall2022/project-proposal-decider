@@ -28,36 +28,37 @@ Decider
 
 ### What and why?
 
-What's for dinner tonight? Should I say yes to him? What should I review for the next class? Who will do the housework? <br>
+What's for dinner tonight? Should I say yes to him? What to review first for the upcoming exam? Who's next to do the housework? <br>
 We believe many of us have a hard time making some decisions nowadays.
-There is no best option, and there is no worst option! Then let's "decider" to choose randomly for you!<br> 
-To cope with the difficulties to make choices, "decider" can help users to make decisions quickly to save time. Users can add their choices or tasks to a list, and the software will separate these choices equally into a "lucky wheel."<br>
-In public places (such as classes or parties), it can also help us to select the "lucky ones."
+There is no best option, and there is no worst option! Then let "decider" choose randomly for you!<br> 
+Coping with the difficulties of making choices, "decider" can help users make quick decisions to save time. No hesitation, no overthought, let's obey the fate!<br>
 
 ### For whom?
 
-Decider is mainly for the users who have a hard time making choices, or the users who have many equally important tasks that are hard to choose what will be done first.<br>
-During class, it can help the teachers to select students randomly to answer the questions. <br>
-During parties, it can help us to pick people randomly or play truth or dare games.<br>
+Decider is mainly for the users who have a hard time making choices, or the users who have many equally important tasks and feels hard to arrange the priority. Users can add their choices or tasks, which will be arranged equally into a "lucky wheel".<br>
+What's more, it's multifunctional in at any place, at any time -- the "lucky one" is always easily and fairly chosen. During class, it helps the teachers to select students randomly to answer the questions. During parties, it helps to pick people randomly or play truth or dare games.<br>
+
 ### How?
+
 Users can:
-1. Create a decisions list(users can add the decision's weight).
-2. During party games, lucky players can be chosen from a "lucky wheel". 
-3. Generating random numbers in a specific interval. 
-4. Users can choose and design from a variety of themes.
-5. Share the decisions with friends via link or text. 
-6. Quickly import options from the clipboard.
+1. Create a decisions list and add each decision's significant coefficient).
+2. Choose lucky players from a "lucky wheel" during party games. 
+3. Generate random numbers in a given interval. 
+4. Choose and design from a variety of themes.
+5. Save the decision history to the account for repetitive uses in the future.
+6. Share their decisions outcome with friends via link or text. 
+7. Import options in certain format directly from the clipboard.
  
- **
+**
 Extended functions may include:
 1. Coin toss: use heads and tails to help you make decisions.
-2. Multiuser interactions: Share URLs to others, and multiple users can add multiple decision items.
+2. Multiuser interactions: Share URLs to others, and multiple users can add multiple decision items to the list.
 
 ### Scope
 
-This proposal requires the implementation of a random option decider, computer graphics, and account data storage. More mini-features could be added such as small games for party time.
+This proposal requires the implementation of a random option decider, computer graphics, and account data storage. The multi-user interaction may be an extended feature to be implemented. More mini-features can be added such as small games for party time.
 
-## Submission
+<!-- ## Submission
 
 Complete the assignment as a Markdown document in the file named `README.md` in this repository. The message should be nicely formatted and outlined with a clear heading and sub-headings for each section.
 
@@ -69,4 +70,4 @@ Share the link to your document in your private assignments Discord channel AND 
 
 We will select a subset of the proposals that we think will be the most interesting and appropriate for this course. These will be published to the class. Your next assignment will be to rank your favorites. We will then make team assignments based on this information and the answers you have provided to the previous introductory questionnaire.
 
-If your proposal is selected, you are 99% guaranteed to be part of that team.
+If your proposal is selected, you are 99% guaranteed to be part of that team. -->
