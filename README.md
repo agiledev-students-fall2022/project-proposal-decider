@@ -29,17 +29,17 @@ Decider
 ### What and why?
 
 What's for dinner tonight? Should I say yes to him? What should I review for the next class? We believe many of us have a hard time to make some decisions nowadays.
-There is no best option, there is no worst option! Then let us decide it randomly for the user!
-To cope with choice difficulties, our website can help users to make a decisions quickly to save their time. In public places (such as classes or parties), it can also help the user choose people randomly.
+There is no best option, and there is no worst option! Then let us decide it randomly for the users!
+To cope with choice difficulties, our website can help users to make a decisions quickly in order to save their time. In public places (such as classes or parties), it can also help us to choose people randomly.
 
 ### For whom?
 
-Decider is mainly for the users who have a hard time making choices, such as those who have a rich material and social life.
+Decider is mainly for the users who have a hard time making choices, or the users who have many equally important choices that are hard to choose.
 
 ### How?
 Basically, users can:
-1. Create decisions(users can add decisions' weight).
-2. During party games, players can be drwan from a turntable. 
+1. Create decisions(users can add decision's weight).
+2. During party games, lucky players can be chosen from a turntable. 
 3. Generating random numbers in a specific interval. 
 4. Users can choose and design from a variety of themes .
 5. Share the decisions with friends via link or text. 
