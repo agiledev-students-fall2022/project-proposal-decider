@@ -28,31 +28,34 @@ Decider
 
 ### What and why?
 
-What's for dinner tonight? Should I say yes to him? What should I review for the next class? We believe many of us have a hard time to make some decisions nowadays.
-There is no best option, and there is no worst option! Then let us decide it randomly for the users!
-To cope with choice difficulties, our website can help users to make a decisions quickly in order to save their time. In public places (such as classes or parties), it can also help us to choose people randomly.
+What's for dinner tonight? Should I say yes to him? What should I review for the next class? Who will do the housework? <br>
+We believe many of us have a hard time making some decisions nowadays.
+There is no best option, and there is no worst option! Then let's "decider" to choose randomly for you!<br> 
+To cope with the difficulties to make choices, "decider" can help users to make decisions quickly to save time. Users can add their choices or tasks to a list, and the software will separate these choices equally into a "lucky wheel."<br>
+In public places (such as classes or parties), it can also help us to select the "lucky ones."
 
 ### For whom?
 
-Decider is mainly for the users who have a hard time making choices, or the users who have many equally important choices that are hard to choose.
-
+Decider is mainly for the users who have a hard time making choices, or the users who have many equally important tasks that are hard to choose what will be done first.<br>
+During class, it can help the teachers to select students randomly to answer the questions. <br>
+During parties, it can help us to pick people randomly or play truth or dare games.<br>
 ### How?
-Basically, users can:
-1. Create decisions(users can add decision's weight).
-2. During party games, lucky players can be chosen from a turntable. 
+Users can:
+1. Create a decisions list(users can add the decision's weight).
+2. During party games, lucky players can be chosen from a "lucky wheel". 
 3. Generating random numbers in a specific interval. 
-4. Users can choose and design from a variety of themes .
+4. Users can choose and design from a variety of themes.
 5. Share the decisions with friends via link or text. 
 6. Quickly import options from the clipboard.
  
  **
-Extented functions includes:
+Extended functions may include:
 1. Coin toss: use heads and tails to help you make decisions.
-2. Multiuser interactions: Share urls to others, and multiple usrs can add multiple decision items at the same time.
+2. Multiuser interactions: Share URLs to others, and multiple users can add multiple decision items.
 
 ### Scope
 
-This proposal basically requires implementations of random option decider, account data storage, multi-user real-time interaction. What's more, more mini-features could be added such as small games for party time, bill pay draw-lots, etc.
+This proposal requires the implementation of a random option decider, computer graphics, and account data storage. More mini-features could be added such as small games for party time.
 
 ## Submission
 
